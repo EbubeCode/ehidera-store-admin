@@ -17,12 +17,11 @@ import com.adminportal.utility.SecurityUtility;
 @SpringBootApplication
 public class AdminportalApplication{
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(AdminportalApplication.class, args);
 	}
 
-
+	}
 	
 
 }
